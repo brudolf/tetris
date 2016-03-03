@@ -1,2 +1,2 @@
 # tetris
-Tetris game
+JavaScript Tetris game
